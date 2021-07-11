@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/controls/ToggleButton.qml</file>
+        <file>images/svg_images/minimize_icon.svg</file>
+        <file>images/svg_images/maximize_icon.svg</file>
+        <file>images/svg_images/close_icon.svg</file>
+        <file>images/svg_images/open_icon.svg</file>
+        <file>images/svg_images/menu_icon.svg</file>
+        <file>images/svg_images/restore_icon.svg</file>
+        <file>images/svg_images/save_icon.svg</file>
+        <file>images/svg_images/resize_icon.svg</file>
+        <file>images/svg_images/home_icon.svg</file>
+        <file>images/svg_images/settings_icon.svg</file>
+        <file>images/svg_images/icon_app_top.svg</file>
+        <file>qml/controls/TopBarButton.qml</file>
+        <file>qml/controls/LeftMenu.qml</file>
+        <file>images/icon.ico</file>
+        <file>qml/pages/licensePage.qml</file>
+        <file>qml/controls/CustomTextField.qml</file>
+        <file>qml/controls/CustomButton.qml</file>
+        <file>qml/pages/textEditor.qml</file>
+    </qresource>
+</RCC>

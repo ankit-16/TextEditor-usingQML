@@ -1,5 +1,7 @@
 # TextEditor-usingQML
 
-This project is part of (PYTHON and QT QUICK - Simple Text Editor) tutorial series by wanderson(Youtube).
-instead of PYTHON i am using C++ as backend.
-
+A simple text Editor Using Qt framework
+Used QML and C++
+Read a text file
+Write to a text file
+save are some of its features
